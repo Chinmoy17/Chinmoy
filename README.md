@@ -8,7 +8,7 @@ Exploring the frontiers of Large Language Models to improve natural language und
 Crafting personalized recommendation systems and scalable ML pipelines.
 💻 My Skills:
 
-Programming Languages: Python, TensorFlow, PyTorch.
+Programming Languages: C/C++, Python, TensorFlow, PyTorch.
 Areas of Interest: Machine Learning, Deep Learning, Transfer Learning, and Fine-tuning LLMs.
 Other Technologies: Web Development.
 🤝 Let’s Connect:
